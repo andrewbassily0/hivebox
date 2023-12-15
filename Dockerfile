@@ -1,4 +1,4 @@
-FROM python:latest
+FROM debian:jessie 
 
 WORKDIR /home/vito/hivebox/hivebox/
 
